@@ -13,6 +13,7 @@
 		EE23166E228227E700AE2F23 /* Convertidor.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EE23166C228227E700AE2F23 /* Convertidor.xcdatamodeld */; };
 		EE231670228227E700AE2F23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE23166F228227E700AE2F23 /* Assets.xcassets */; };
 		EE231673228227E700AE2F23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE231671228227E700AE2F23 /* LaunchScreen.storyboard */; };
+		EE23167B22822EA700AE2F23 /* CalcularViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE23167A22822EA700AE2F23 /* CalcularViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EE23166F228227E700AE2F23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE231672228227E700AE2F23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE231674228227E700AE2F23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE23167A22822EA700AE2F23 /* CalcularViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcularViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				EE231671228227E700AE2F23 /* LaunchScreen.storyboard */,
 				EE231674228227E700AE2F23 /* Info.plist */,
 				EE23166C228227E700AE2F23 /* Convertidor.xcdatamodeld */,
+				EE23167A22822EA700AE2F23 /* CalcularViewController.swift */,
 			);
 			path = Convertidor;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE231668228227E700AE2F23 /* ViewController.swift in Sources */,
+				EE23167B22822EA700AE2F23 /* CalcularViewController.swift in Sources */,
 				EE231666228227E700AE2F23 /* AppDelegate.swift in Sources */,
 				EE23166E228227E700AE2F23 /* Convertidor.xcdatamodeld in Sources */,
 			);
